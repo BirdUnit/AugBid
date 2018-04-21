@@ -1,0 +1,8 @@
+C:\Users\BirdHouse\Desktop\AugBid$\AugBid$\bin\Debug\AugBid$.exe.config
+C:\Users\BirdHouse\Desktop\AugBid$\AugBid$\obj\Debug\AugBid$.csprojResolveAssemblyReference.cache
+C:\Users\BirdHouse\Desktop\AugBid$\AugBid$\obj\Debug\AugBid_.AddItemMenu.resources
+C:\Users\BirdHouse\Desktop\AugBid$\AugBid$\obj\Debug\AugBid_.AdminMenu.resources
+C:\Users\BirdHouse\Desktop\AugBid$\AugBid$\obj\Debug\AugBid_.BidderMenu.resources
+C:\Users\BirdHouse\Desktop\AugBid$\AugBid$\obj\Debug\AugBid_.LoginForm.resources
+C:\Users\BirdHouse\Desktop\AugBid$\AugBid$\obj\Debug\AugBid_.Properties.Resources.resources
+C:\Users\BirdHouse\Desktop\AugBid$\AugBid$\obj\Debug\AugBid$.csproj.GenerateResource.Cache
